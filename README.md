@@ -1,0 +1,4 @@
+# Decode_AffineCipher
+
+The program decrypt the ciphertext, which is an AffineCipher:
+KDNSWSQQKBEKQBZSCYBZSFYDKNXSNBKYNBZSNJSFZAJQAHXSFQKBEKQBZSCYBZSFYDWFEJBANAREQKQ.
