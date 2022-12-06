@@ -31,14 +31,8 @@ public class DecodeModule {
 			for(int j=0;j<module;j++)
 			{				
 				plaintext=DecryptCiphertext(cipherText,firstKey,j);
-				
-				// After analysis of all blocks I came to know that when i=5, the word makes sense. 
-				// Just for readability I am not printing any other values, but it can be seen the combination by printing
-				// ANSWER: IFNECESSITYISTHEMOTHEROFINVENTIONTHENPERHAPSADVERSITYISTHEMOTHEROFCRYPTANALYSIS
-				if(i==5)
-				{
 				System.out.println(plaintext);
-				}				
+						
 			}
 			
 		}
