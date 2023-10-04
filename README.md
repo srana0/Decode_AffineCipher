@@ -18,5 +18,4 @@ Plaintext: IFNECESSITYISTHEMOTHEROFINVENTIONTHENPERHAPSADVERSITYISTHEMOTHEROFCRY
 * Once you click the batch file, you can see the output.
 ![003](https://github.com/srana0/Decode_AffineCipher/assets/93364397/9cf6711b-06b7-4519-96b5-2d07d13c612b)
 ![004](https://github.com/srana0/Decode_AffineCipher/assets/93364397/2c062a45-ccf1-4913-82df-c5b90ff38e68)
-
 * Or, you can use IDE to open the project.
