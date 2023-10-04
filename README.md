@@ -1,8 +1,11 @@
 # Decode_AffineCipher
 # Problem Statement
-The program decrypt the AffineCipher:
 
-Ciphertext: KDNSWSQQKBEKQBZSCYBZSFYDKNXSNBKYNBZSNJSFZAJQAHXSFQKBEKQBZSCYBZSFYDWFEJBANAREQKQ.
+This question violates Kerckhoff’s principle on the secrecy of an encryption algorithm, meaning the question does not tell which classical cipher was used to create the following ciphertext:
+KDNSWSQQKBEKQBZSCYBZSFYDKNXSNBKYNBZSNJSFZAJQAHXSFQKBEKQBZSCYBZSFYDWFEJBANAREQKQ.
+
+Please recover the corresponding plaintext for the above ciphertext. Elaborate your approach to recover the plaintext. You can write a program to find the plaintext or take any help of a program if needed.
+
 
 # How to Run the Program
 * Step 1: Download the ZIP files.
